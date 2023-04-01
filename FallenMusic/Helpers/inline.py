@@ -34,7 +34,7 @@ pm_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="💡 Mənbə", url="https://github.com/PornoHup"
+            text="💡 Dəstək", url="https://t.me/RiyaddSupport"
         ),
         InlineKeyboardButton(text=" İnkişaf etdirici ", user_id=config.OWNER_ID),
     ],
@@ -54,7 +54,7 @@ gp_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="💡 Mənbə", url="https://github.com/Pornohup"
+            text="💡 Dəstək", url="https://t.me/RiyaddSupport"
         ),
         InlineKeyboardButton(text="☠ İnkişaf etdirici", user_id=config.OWNER_ID),
     ],
