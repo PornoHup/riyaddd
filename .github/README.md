@@ -1,7 +1,7 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 RaviVeyi ✘ Music 」──
+    ──「 Riyad ✘ Music 」──
 </h2>
 
 ━━━━━━━━━━━━━━━━━━━━
