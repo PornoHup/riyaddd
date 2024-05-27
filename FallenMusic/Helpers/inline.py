@@ -34,7 +34,7 @@ pm_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="💡 Dəstək", url="https://t.me/RiyaddSupport"
+            text="💡 Dəstək", url="https://t.me/TuralBlogg"
         ),
         InlineKeyboardButton(text=" İnkişaf etdirici ", user_id=config.OWNER_ID),
     ],
